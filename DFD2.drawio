@@ -1,0 +1,169 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="kwjhAU2NfMLqYzPBk062">
+    <mxGraphModel dx="802" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6guUgu1FzKum30mEXgTc-1" value="DFD 2 of Appointment Management (suprocess)&amp;nbsp;&lt;div&gt;for Hospital Management System&lt;div&gt;By Dipesh Shrestha&lt;/div&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="275" y="170" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="370" width="131" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Schedule&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Appointment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6guUgu1FzKum30mEXgTc-6">
+          <mxGeometry width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6guUgu1FzKum30mEXgTc-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="36" as="sourcePoint" />
+            <mxPoint x="131" y="36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-9" value="&lt;b&gt;1.1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6guUgu1FzKum30mEXgTc-6">
+          <mxGeometry x="35" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-68" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="405" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6guUgu1FzKum30mEXgTc-68" target="6guUgu1FzKum30mEXgTc-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-70" value="Check Doctor&lt;div&gt;Availability&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-69">
+          <mxGeometry x="-0.2441" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="570" width="131" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-72" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Update&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Appointment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6guUgu1FzKum30mEXgTc-71">
+          <mxGeometry width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-73" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6guUgu1FzKum30mEXgTc-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="36" as="sourcePoint" />
+            <mxPoint x="131" y="36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-74" value="&lt;b&gt;1.2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6guUgu1FzKum30mEXgTc-71">
+          <mxGeometry x="35" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-77" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp;Appointment Records" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="154.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6guUgu1FzKum30mEXgTc-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="380" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-79" value="Add Appointment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-78">
+          <mxGeometry x="-0.0476" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6guUgu1FzKum30mEXgTc-72" target="6guUgu1FzKum30mEXgTc-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="397" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-82" value="Edit Appointment Detail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-81">
+          <mxGeometry x="-0.0476" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="370" width="131" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-84" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;&lt;div&gt;Schedule&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6guUgu1FzKum30mEXgTc-83">
+          <mxGeometry width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-85" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6guUgu1FzKum30mEXgTc-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="36" as="sourcePoint" />
+            <mxPoint x="131" y="36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-86" value="&lt;b&gt;1.3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6guUgu1FzKum30mEXgTc-83">
+          <mxGeometry x="35" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-87" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;Schedule Records Records" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="524.62" y="280" width="201.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.724;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6guUgu1FzKum30mEXgTc-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="372" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="300" />
+              <mxPoint x="480" y="350" />
+              <mxPoint x="440" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-76" value="Check Doctor&lt;div&gt;Availability&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-75">
+          <mxGeometry x="-0.2441" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="-340" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-88" value="Doctor&#39;s&amp;nbsp;&lt;div&gt;Availability&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-75">
+          <mxGeometry x="0.0299" y="-2" relative="1" as="geometry">
+            <mxPoint x="13" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-89" value="Doctor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="405" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6guUgu1FzKum30mEXgTc-89" target="6guUgu1FzKum30mEXgTc-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="510" as="sourcePoint" />
+            <mxPoint x="360" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-91" value="Update&amp;nbsp;&lt;div&gt;Schedule&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="691" y="420" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6guUgu1FzKum30mEXgTc-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691" y="310" as="sourcePoint" />
+            <mxPoint x="621" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-94" value="Schedule info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-93">
+          <mxGeometry x="0.0089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-95" value="Notification" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="525" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6guUgu1FzKum30mEXgTc-77" target="6guUgu1FzKum30mEXgTc-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="530" as="sourcePoint" />
+            <mxPoint x="640" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-97" value="Appointment detail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-96">
+          <mxGeometry x="-0.2232" y="7" relative="1" as="geometry">
+            <mxPoint x="13" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.896;exitY=0.079;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="6guUgu1FzKum30mEXgTc-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="540" as="sourcePoint" />
+            <mxPoint x="792" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6guUgu1FzKum30mEXgTc-99" value="Notify&lt;div&gt;Appointment&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" vertex="1" connectable="0" parent="6guUgu1FzKum30mEXgTc-98">
+          <mxGeometry x="-0.2232" y="7" relative="1" as="geometry">
+            <mxPoint x="22" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
